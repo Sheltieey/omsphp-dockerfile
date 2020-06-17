@@ -1,6 +1,6 @@
 ## omsphp56 镜像介绍
 
-**此镜像build出来后一共500M,根据商派的oms所需环境写的dockerfile，所以此镜像用在商派的ome开发环境是100%拿来即用**
+**此镜像build出来后一共500M,根据商派的oms所需环境写的dockerfile，所以此镜像用在商派的oms开发环境是100%拿来即用**
 
 * work directory:  /var/www/html
 * Configuration File path:  /usr/local/etc/php
